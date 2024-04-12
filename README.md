@@ -1,2 +1,2 @@
 # Hbd.github.io
-Script Ulang Tahun
+ini Script untuk Ulang Tahun
